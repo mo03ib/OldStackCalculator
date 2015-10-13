@@ -30,7 +30,6 @@ public class Calculator {
 		// Print the number on top of the stack.
                
 		// ADD YOUR CODE HERE
-                System.out.println(stack.top());
 
 	    } else if (line.equals("+")) {
 		// Add the top two elements.
